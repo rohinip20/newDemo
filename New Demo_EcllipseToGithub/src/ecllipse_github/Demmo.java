@@ -6,6 +6,8 @@ public class Demmo {
 	{
 	
 		System.out.println("demo giving");
+		System.out.println("demo giving");
+
 
 	}
 
